@@ -1,4 +1,4 @@
-#  Grocery Basket Analysis — 
+#  Grocery Basket Analysis —
 
 **University:** University of Agriculture, Faisalabad (UAF)
 **Subject:** Introduction to Data Science
@@ -51,3 +51,34 @@ and shelf placement strategy.
 ---
 
 ## 📁 Project Structure
+---
+
+## 🚀 How to Run
+
+1. Clone the repository
+```bash
+   git clone https://github.com/your-username/grocery-basket-analysis.git
+   cd grocery-basket-analysis
+```
+
+2. Install dependencies
+```bash
+   pip install pandas matplotlib seaborn
+```
+
+3. Launch Jupyter Notebook
+```bash
+   jupyter notebook grocery_basket_analysis_missing.ipynb
+```
+
+---
+
+## 🏷️ Topics
+
+`python` `pandas` `matplotlib` `seaborn` `data-analysis`
+`market-basket-analysis` `missing-value-handling` `kaggle`
+`jupyter-notebook` `eda` `data-visualization` `uaf`
+
+---
+
+*BS Data Science — University of Agriculture, Faisalabad (UAF)*
